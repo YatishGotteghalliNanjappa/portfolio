@@ -17,7 +17,7 @@ const projects: Project[] = [
   {
     title: "Warranty Management System",
     description: "As a Software Engineer, I contributed to the development of a robust Warranty Management System designed to streamline and automate the entire warranty lifecycle. The platform enabled users to register products, submit and track claims, and manage warranty policies with ease.My work focused on building scalable components that supported features like real-time claim validation, automated approvals, and seamless integration with inventory and service modules. The system also provided actionable insights through dashboards and reporting tools, helping businesses reduce claim fraud, enhance customer satisfaction, and optimize operational efficiency.",
-    image: "/cumminslogo.png",
+    image: "cumminslogo.png",
     category: "Professional Projects",
    /* techStack: ["React", "Node.js", "MongoDB", "Stripe"],
     demoLink: "#", 
@@ -35,7 +35,7 @@ const projects: Project[] = [
   {
     title: "Black Ticket - Restaurant Management Platform",
     description: "Developed BlackTicket, a mobile solution (Android) for guests to discover restaurants, reserve tables, request service, pay bills, and retrieve valet-parked vehicles. Built staff-facing tools for real-time management of reservations, requests, menus, and feedback. Enabled managers with operational insights and owners with CRM-driven promotions. Led end-to-end development, including business planning, hiring, and roadmap. Integrated with iDine POS and multiple payment providers for seamless menu, order, and transaction management.",
-    image: "/BlackTicket.png",
+    image: "BlackTicket.png",
     category: "Professional Projects",
     /*techStack: ["Vue.js", "Firebase", "Tailwind CSS"],
      demoLink: "#", 
@@ -53,7 +53,7 @@ const projects: Project[] = [
   {
     title: "MeetSync - Real Time Meeting Transcription and Summary Web App",
     description: "Meet & Sync is a full-stack web application that enhances online meetings by offering real-time audio transcription, AI-generated summaries, and interactive chat with transcripts. Users log in securely with Google OAuth and connect their Google Calendar. During meetings, the app captures audio, transcribes it every 30 seconds using speech-to-text APIs, and enables users to query the transcript with AI. After each session, MeetSync presents structured meeting summaries. The backend handles authentication, audio processing, and secure data storage with robust error handling for login, transcription, and API issues.",
-    image: "/MeetSync.jpg",
+    image: "MeetSync.jpg",
     category: "Academic Projects",
     /*techStack: ["Java", "SpringBoot", "MySql"],
     demoLink: "#",  

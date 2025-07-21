@@ -21,7 +21,7 @@ export default function Hero() {
               Contact Me
             </a>
             <a
-              href="/YatishResume.pdf" target="_blank" rel="noopener noreferrer"
+              href="YatishResume.pdf" target="_blank" rel="noopener noreferrer"
               className="px-6 py-3 border-2 border-purple-600 text-purple-600 dark:text-purple-400 rounded-lg hover:bg-purple-50 dark:hover:bg-purple-900/20 transition-colors"
             >
               Download CV
@@ -34,7 +34,7 @@ export default function Hero() {
             <a href="https://www.linkedin.com/in/yatish-gotteghalli-nanjappa" target="_blank" rel="noopener noreferrer" className="social-link">
               <Linkedin className="w-6 h-6" />
             </a>
-            <a href="/YatishResume.pdf" target="_blank" rel="noopener noreferrer" className="social-link">
+            <a href="YatishResume.pdf" target="_blank" rel="noopener noreferrer" className="social-link">
               <FileText className="w-6 h-6" />
             </a>
           </div>
@@ -42,7 +42,7 @@ export default function Hero() {
         <div className="lg:w-1/2 mt-12 lg:mt-0">
           <div className="relative">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
-              <img src="/Yatish.png"
+              <img src="Yatish.png"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
