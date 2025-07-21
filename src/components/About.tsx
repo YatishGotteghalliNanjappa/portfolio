@@ -45,7 +45,7 @@ export default function About() {
 
           <div className="relative">
             <div className="relative z-10">
-              <img src="/YatishAbout.png"
+              <img src="images/YatishAbout.png"
                 alt="About Me"
                 className="rounded-lg shadow-xl animate-fade-in centre"/>
             </div>
