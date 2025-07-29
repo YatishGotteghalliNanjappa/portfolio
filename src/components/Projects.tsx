@@ -51,6 +51,15 @@ const projects: Project[] = [
     githubLink: "#" */
   },
   {
+    title: "Rental Real Estate Management System",
+    description: "A user-friendly desktop application designed to simplify rental property management for landlords and tenants. Landlords can list units, manage applications, and track payments, while tenants can browse listings, apply for rentals, and access lease details. The system improves communication, offers intuitive workflows, and reduces manual tasks. Ideal for small to mid-sized property owners, it keeps property data organized and accessible. It supports the full rental lifecycle—from listing to payment tracking—ensuring efficiency, transparency, and better real estate asset management.",
+    image: "Real Estate.png",
+    category: "Academic Projects",
+    /*techStack: ["ReactJS","Redux","Axios","Material UI", "ChartJS", "Express.js","Node.js","JWT ","bcryptjs","Mongoose"],
+     demoLink: "#",  
+    githubLink: "#" */
+  },
+  {
     title: "MeetSync - Real Time Meeting Transcription and Summary Web App",
     description: "Meet & Sync is a full-stack web application that enhances online meetings by offering real-time audio transcription, AI-generated summaries, and interactive chat with transcripts. Users log in securely with Google OAuth and connect their Google Calendar. During meetings, the app captures audio, transcribes it every 30 seconds using speech-to-text APIs, and enables users to query the transcript with AI. After each session, MeetSync presents structured meeting summaries. The backend handles authentication, audio processing, and secure data storage with robust error handling for login, transcription, and API issues.",
     image: "MeetSync.jpg",
